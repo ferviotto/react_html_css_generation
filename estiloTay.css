@@ -1,0 +1,71 @@
+body{
+    background-color:  #969494a6;
+
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: bold;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px;
+    margin: 20px 100px 5px 90px
+}
+.container
+    #folkTay {
+    display: flex;
+    justify-content: center; 
+    }  
+    #folkTay img {
+    border: 2px solid rgba(194, 190, 190, 0.863); 
+    border-radius: 10px;
+    margin: 0px 0px 0px 90px
+    }
+.container1 {
+    border-style: groove;
+    border-color: rgba(10, 10, 10, 0.671);
+    padding: 20px;
+    width: fit-content;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+    h3 {
+        font-size: 20px;
+        font-style: italic;
+        text-align: center;
+}
+    form {
+        text-align: center;
+        margin-top: 20px;
+}
+
+ul.centro {
+        text-align: center; /* Centraliza o texto dos itens da lista */
+        padding: 0; /* Remove a margem e o preenchimento padrão */
+        list-style-position: inside; /* Faz com que os marcadores da lista apareçam dentro do bloco de texto */
+    }
+.centro-block {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
