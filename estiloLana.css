@@ -68,7 +68,12 @@ p {
             font-size: 16px;
             cursor: pointer;
         }
-
+.container1 {
+            text-align: center;
+        }
+        img, iframe {
+            cursor: pointer;
+        }
 .centro-block {
     display: block;
     margin-left: auto;
